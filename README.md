@@ -1,16 +1,22 @@
-## Hi there 👋
+# Nonami
+# Hi, I'm Nonami 👋
 
-<!--
-**N0namii/N0namii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a penetration tester and security researcher, passionate about finding vulnerabilities and helping organizations secure their systems. I specialize in web application security and exploit development.
 
-Here are some ideas to get you started:
+## My Skills:
+- 🛠️ Penetration Testing
+- 🔍 Vulnerability Assessment
+- 💻 Web Application Security
+- 🔐 Cryptography
+- 💥 Exploit Development
+- 📝 Scripting and Automation (Python, Bash, etc.)
+  
+## Projects:
+- [Exploit Development](_______________SooN_______________) — A collection of exploit development examples.
+- [OSINT Tools](_______________SooN_______________) — Tools for open-source intelligence gathering.
+- [Vuln Scanner](_______________SooN_______________) — A script for automated vulnerability scanning.
+  
+## Contact:
+- 📧 Email: n0n4mmi@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you want to collaborate or discuss security topics!
