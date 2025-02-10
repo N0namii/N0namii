@@ -12,9 +12,10 @@ I'm a penetration tester and security researcher, passionate about finding vulne
 - 📝 Scripting and Automation (Python, Bash, etc.)
   
 ## Projects:
-- [Exploit Development](_______________SooN_______________) — A collection of exploit development examples.
-- [OSINT Tools](_______________SooN_______________) — Tools for open-source intelligence gathering.
-- [Vuln Scanner](_______________SooN_______________) — A script for automated vulnerability scanning.
+- [Nmap](https://github.com/N0namii/Nmap)
+- [Ransomware](https://github.com/N0namii/Enbin-Ransomware) 
+- [Spyware](https://github.com/N0namii/Sevond---Spyware) 
+- [Cookie-Stealer](https://github.com/N0namii/Husein-Cookie-Stealer)
   
 ## Contact:
 - 📧 Email: n0n4mmi@gmail.com
