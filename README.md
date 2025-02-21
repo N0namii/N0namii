@@ -12,7 +12,7 @@ I'm a penetration tester and security researcher, passionate about finding vulne
 - 📝 Scripting and Automation (Python, Bash, etc.)
   
 ## Projects:
-- [Nmap](https://github.com/N0namii/Nmap)            - [Google Dork](https://github.com/N0namii/Google-Dork)
+- [Nmap](https://github.com/N0namii/Nmap)- [Google Dork](https://github.com/N0namii/Google-Dork)
 - [Ransomware](https://github.com/N0namii/Enbin-Ransomware)             - [Projects Reports](https://github.com/N0namii/Projects-Reports)
 - [Spyware](https://github.com/N0namii/Sevond---Spyware) 
 - [Cookie-Stealer](https://github.com/N0namii/Husein-Cookie-Stealer)
